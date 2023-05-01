@@ -70,7 +70,7 @@ Once logged in the user is redirected to the home page and the header displayes 
 
 Once the quantity(max 5) is selected the user may place the order. At this step he is redirected to the order confirmation page:
 
-![image](https://user-images.githubusercontent.com/122267768/235456083-1184ff46-5ec7-4575-9006-e4c06b08d03b.png)
+![image](https://user-images.githubusercontent.com/122267768/235456804-0a6617fd-97cb-4cf9-a89c-aaa7f0dc5d44.png)
 
 If the order is confirmed, it is recorded in the database and the user receives a confirmation:
 
