@@ -5,7 +5,7 @@ As a Full Stack Developer, complete the features of the application by planning 
 
 ## Application flowchart
 
-###Unauth Journey:
+### Unauth Journey:
 
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/122267768/235450736-cbb8215b-5997-4f31-9e1d-a5d06eb6d496.png">
 
