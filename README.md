@@ -78,25 +78,43 @@ If the order is confirmed, it is recorded in the database and the user receives 
 
 
 ### Admin Journey:
+Admin goes on the signin page and enters his credentials:
 
-Select the admin login button on the Home page:
+![image](https://user-images.githubusercontent.com/122267768/235457290-da56b82f-9ee0-431c-8541-9850be712603.png)
 
-![image](https://user-images.githubusercontent.com/122267768/234865137-085032ab-2985-4933-9449-809c7d3b230b.png)
+He is then taken to the men shoes page where he may update the products(the behavior is similar for the women/kids shoes sections):
 
-You are redirected to the admin login page, where the credentials can be inserted:
+![image](https://user-images.githubusercontent.com/122267768/235457498-effc248c-c84a-457f-ba60-904a2e677f4b.png)
 
-![image](https://user-images.githubusercontent.com/122267768/234865988-ca0a590f-07c5-48d5-aae8-61d59c31bb83.png)
+![image](https://user-images.githubusercontent.com/122267768/235457694-576d722d-b649-48f7-ba69-4e99727048e5.png)
 
-If the cerdentials are correct the admin is edirected to the his main page. At this point he may change his password or insert new flights:
+![image](https://user-images.githubusercontent.com/122267768/235457867-67f30631-69c7-4cc5-b35e-b1ebb9ae3e37.png)
 
-![image](https://user-images.githubusercontent.com/122267768/234866513-35c6c903-8be1-412c-b762-b94b837338bc.png)
+Once the delete button is pushed the product is erased from the database without further confirmation:
 
-Selecting Change password will take the admin to the screen where he may update his password:
+![image](https://user-images.githubusercontent.com/122267768/235458067-948d3425-3866-4439-8e78-d657e1606870.png)
 
-![image](https://user-images.githubusercontent.com/122267768/234868114-16e526df-815e-4ac6-9879-8869702fd490.png)
+The password is changed once the "Change password" button is selected without further confirmation and teh admin is redirected to the login page:
 
-Or in the admin main page he mai add a new flight in the database:
+![image](https://user-images.githubusercontent.com/122267768/235458533-274dcbea-77d1-4764-afca-26b3756f313b.png)
 
-![image](https://user-images.githubusercontent.com/122267768/234868470-6a20a001-2a30-432f-afb8-6a30b2bf4b1b.png)
+![image](https://user-images.githubusercontent.com/122267768/235458753-97dace4a-3c17-4945-bfc0-6cec62ac44c4.png)
 
+Customer List retrieves by default all the users registered on the platform. The searchbod below may be used to look for a specific user(the email is the info the admin should search for):
+
+![image](https://user-images.githubusercontent.com/122267768/235459037-2cded6f5-d8b8-4444-8bcb-d98fb0cadfb5.png)
+
+Add product section allows the admin to add a product to the database. Once the operation is completed the admin is redirected to teh products list:
+
+![image](https://user-images.githubusercontent.com/122267768/235459480-54b2d6fa-f41b-496e-939d-92cbd1184aa9.png)
+
+![image](https://user-images.githubusercontent.com/122267768/235459539-cb8e1860-7326-4ce4-b1db-4559a0ef9f23.png)
+
+Reports section shows all the orders sumitted on the platform. If needed a specific search may be run by date and cathegory:
+
+![image](https://user-images.githubusercontent.com/122267768/235459772-74f04108-35e0-45d5-b304-fdf83ada4cfc.png)
+
+![image](https://user-images.githubusercontent.com/122267768/235459905-b814b11b-7d67-495d-be63-d14b2468b666.png)
+
+Finally, the Logout button invalidates the session and redirects the admin to the Home page.
 
