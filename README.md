@@ -45,6 +45,24 @@ Tomcat 9
 Eclipse IDE
 
 ## Application snapshots:
+### Unauth Journey:
+Homepage shows redirects to the Men/Women/Kids shoes categories as well as to the SignIn and SignUp pages:
+
+![image](https://user-images.githubusercontent.com/122267768/235454684-d3939d83-571d-4845-bfb4-384666051774.png)
+
+Men shoes shows the available men products along with the price and the "Buy Now" option(kids and women shoes pages are similar):
+
+![image](https://user-images.githubusercontent.com/122267768/235454879-ceacdd8e-748d-41f6-8897-3174150707e6.png)
+
+Selecting "Buy Now" takes the user to the Sign In page:
+
+![image](https://user-images.githubusercontent.com/122267768/235455054-27bc7982-7d30-44f9-b429-47d3f82fd39c.png)
+
+If the user doesn not have a login he may choose the SignUp option from the header's right side:
+
+![image](https://user-images.githubusercontent.com/122267768/235455335-3af835f8-fbc8-4652-8641-b0b4c6362e17.png)
+
+
 ### User Journey:
 Homepage has a search box that allows the user to look for the flight:
 
