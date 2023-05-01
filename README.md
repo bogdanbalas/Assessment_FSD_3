@@ -5,13 +5,17 @@ As a Full Stack Developer, complete the features of the application by planning 
 
 ## Application flowchart
 
-### User Journey:
+###Unauth Journey:
 
-![image](https://user-images.githubusercontent.com/122267768/234853283-62d5dd67-9235-4d6c-9311-d4169d08f9f9.png)
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/122267768/235450736-cbb8215b-5997-4f31-9e1d-a5d06eb6d496.png">
+
+### User(signed in) Journey:
+
+<img width="711" alt="image" src="https://user-images.githubusercontent.com/122267768/235451595-3fde7226-0b40-46ab-8e72-99fba151406d.png">
 
 ### Admin Journey:
 
-![image](https://user-images.githubusercontent.com/122267768/234867633-0d9c1fe4-2b15-44a5-8217-1ec24dd41c92.png)
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/122267768/235453120-bd156b20-b48e-4b48-8fe3-0424b5b824e2.png">
 
 
 ## Sprint breakdown:
