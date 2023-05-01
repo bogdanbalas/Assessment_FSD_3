@@ -16,8 +16,11 @@ As a Full Stack Developer, complete the features of the application by planning 
 
 ## Sprint breakdown:
 Sprint 1 - build the maven project, connect to the database, build the Mysql DB tables & add initial info, design the user and admin journeys
+
 Sprint 2 - build the app frontend, signin, login and logout functionalities for both user and admin 
+
 Sprint 3 - build the products(shoes) CRUD opeations and link them to the frontend
+
 Sprint 4 - build the order functionalily along with the reporting functionality for the adin
 
 ## Backlog:
