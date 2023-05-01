@@ -64,25 +64,21 @@ If the user doesn not have a login he may choose the SignUp option from the head
 
 
 ### User Journey:
-Homepage has a search box that allows the user to look for the flight:
+Once logged in the user is redirected to the home page and the header displayes the Logout option.He may visit the section he is interested in, and select the Buy Now option for the product he is interested in. This time he is taken to the order page:
 
-![image](https://user-images.githubusercontent.com/122267768/234858786-f1233188-c3f4-4ecd-9b5b-9c644dc8a899.png)
+![image](https://user-images.githubusercontent.com/122267768/235455862-bd6c919e-9102-452b-b49b-d368210f51db.png)
 
-Once submited the user is redirected to the flight results page. If no result is found an error message is displayed:
+Once the quantity(max 5) is selected the user may place the order. At this step he is redirected to the order confirmation page:
 
-![image](https://user-images.githubusercontent.com/122267768/234860580-2dbf664a-9d89-4c26-9874-0b58fe14a8fd.png)
+![image](https://user-images.githubusercontent.com/122267768/235456083-1184ff46-5ec7-4575-9006-e4c06b08d03b.png)
 
-Otherwise the search results are shown and the user has the option to book their flight:
+If the order is confirmed, it is recorded in the database:
 
-![image](https://user-images.githubusercontent.com/122267768/234860747-04ac337f-e687-44f4-827e-a24b9472e703.png)
+![image](https://user-images.githubusercontent.com/122267768/235456191-a1226389-20a6-449a-9768-ea7e6de0fc00.png)
 
-Choosing the "Buy Now" option takes the user to the registration page:
+And the user receives a confirmation:
 
-![image](https://user-images.githubusercontent.com/122267768/234861778-fd16506e-b63a-4d6c-b840-20a4f049fbe4.png)
-
-Once the details are entered the user is added in the db and the flight is confirmed:
-
-![image](https://user-images.githubusercontent.com/122267768/234862049-6f55bf6d-9665-4ea7-8f31-9881aa8a850a.png)
+![image](https://user-images.githubusercontent.com/122267768/235456408-b92a7744-f97b-45ab-bd5a-68c5efde9ec2.png)
 
 
 ### Admin Journey:
