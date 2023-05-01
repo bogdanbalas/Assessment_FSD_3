@@ -72,11 +72,7 @@ Once the quantity(max 5) is selected the user may place the order. At this step 
 
 ![image](https://user-images.githubusercontent.com/122267768/235456083-1184ff46-5ec7-4575-9006-e4c06b08d03b.png)
 
-If the order is confirmed, it is recorded in the database:
-
-![image](https://user-images.githubusercontent.com/122267768/235456191-a1226389-20a6-449a-9768-ea7e6de0fc00.png)
-
-And the user receives a confirmation:
+If the order is confirmed, it is recorded in the database and the user receives a confirmation:
 
 ![image](https://user-images.githubusercontent.com/122267768/235456408-b92a7744-f97b-45ab-bd5a-68c5efde9ec2.png)
 
