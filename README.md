@@ -102,7 +102,7 @@ The password is changed once the "Change password" button is selected without fu
 
 Customer List retrieves by default all the users registered on the platform. The searchbod below may be used to look for a specific user(the email is the info the admin should search for):
 
-![image](https://user-images.githubusercontent.com/122267768/235459037-2cded6f5-d8b8-4444-8bcb-d98fb0cadfb5.png)
+![image](https://user-images.githubusercontent.com/122267768/235460309-3b14c1b1-174e-44d2-9eb7-8adc314b0f69.png)
 
 Add product section allows the admin to add a product to the database. Once the operation is completed the admin is redirected to teh products list:
 
